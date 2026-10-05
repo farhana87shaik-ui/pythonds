@@ -9,3 +9,4 @@ def selectionsort(a):
 
 
 a=[20,42,45,63,31]
+print(selectionsort(a))
